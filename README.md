@@ -24,7 +24,7 @@ The project is structured as a reusable Python package with a simple CLI entrypo
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/python-automation-toolkit.git
+git clone https://github.com/harshkumar1663/python-automation-toolkit.git
 cd python-automation-toolkit
 
 python -m venv .venv
@@ -32,3 +32,5 @@ source .venv/bin/activate   # Windows: .venv\Scripts\activate
 
 pip install -r requirements.txt
 pip install -e .             # if you keep a pyproject.toml with package info
+# python-automation-toolkit
+A production-style Python automation suite (file organizer, log analyzer, CSV cleaner). Tech: Python, pandas, CLI, automation.
