@@ -1,0 +1,9 @@
+{
+  "file_organizer": {
+    "other_folder": "misc"
+  },
+  "csv_cleaner": {
+    "fillna_value": "",
+    "drop_empty_rows": true
+  }
+}
